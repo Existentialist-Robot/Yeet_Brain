@@ -17,3 +17,6 @@ conda env create -f environment.yml
 
 ## Export Env
 conda env export > environment_droplet.yml
+
+## Miscellanious
+https://eeg-notebooks.readthedocs.io/en/latest/index.html
