@@ -6,6 +6,7 @@ numpy
 OpenBCI_python or pyOpenBCI --
 
 Jupyter 
+
 Matplotlib 
 
 ## Install Env
