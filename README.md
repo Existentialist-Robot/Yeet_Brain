@@ -3,7 +3,8 @@ CalgaryHacks2020
 
 ## Packages involved
 numpy 
-OpenBCI_python or pyOpenBCI lf
+OpenBCI_python or pyOpenBCI --
+
 Jupyter 
 Matplotlib 
 
