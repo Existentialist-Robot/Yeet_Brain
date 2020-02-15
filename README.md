@@ -12,14 +12,14 @@ Matplotlib
 
 
 
-## Install Env
+### Install Env
 conda env create -f environment.yml
 
-## Export Env
+### Export Env
 conda env export > environment_droplet.yml
 
 ## Miscellanious
 
-https://eeg-notebooks.readthedocs.io/en/latest/index.html
-P300 for muse
+###P300 for muse
+
 https://github.com/NeuroTechX/eeg-notebooks/blob/master/notebooks/P300.ipynb
