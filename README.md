@@ -29,7 +29,7 @@ conda remove --name envname --all
 #### Clone an existing environment
 conda create --name clone_envname --clone envname
 
-## Miscellanious
+## Base Resources
 
 ### Plotting OpenBCI
 
@@ -39,7 +39,16 @@ https://github.com/andreaortuno/Plotting_OpenBCI_Cyton_Data_live
 
 https://github.com/NeuroTechX/eeg-notebooks/blob/master/notebooks/P300.ipynb
 
+### Offical OpenBCI Links
 
+#### Cyton Board Programming Tutorial
+https://docs.openbci.com/docs/02Cyton/CytonProgram
+
+#### Cyton Board General OVerview
+https://docs.openbci.com/docs/02Cyton/CytonLanding
+
+#### Triggering to External Triggers
+https://docs.openbci.com/docs/02Cyton/CytonExternal
 
 
 
