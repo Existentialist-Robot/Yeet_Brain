@@ -1,6 +1,11 @@
 # Yeet_Brain
 CalgaryHacks2020
 
+## Packages involved
+numpy
+OpenBCI_python or pyOpenBCI
+Jupyter
+
 ## Install Env
 conda env create -f environment.yml
 
