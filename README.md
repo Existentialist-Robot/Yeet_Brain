@@ -20,6 +20,15 @@ conda env export > environment_droplet.yml
 
 ## Miscellanious
 
-###P300 for muse
+### Plotting OpenBCI
+
+https://github.com/andreaortuno/Plotting_OpenBCI_Cyton_Data_live
+
+### P300 for muse
 
 https://github.com/NeuroTechX/eeg-notebooks/blob/master/notebooks/P300.ipynb
+
+
+
+
+
