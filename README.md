@@ -2,9 +2,10 @@
 CalgaryHacks2020
 
 ## Packages involved
-numpy
-OpenBCI_python or pyOpenBCI
-Jupyter
+numpy \n
+OpenBCI_python or pyOpenBCI \n
+Jupyter \n
+Matplotlib \n
 
 ## Install Env
 conda env create -f environment.yml
